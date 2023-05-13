@@ -1,0 +1,107 @@
+{
+  "index_version": "1.0.0",
+  "templates": [
+    {
+      "name": "2022 MacBook Air 13 Space Gray (White Background)",
+      "slug": "mba2022-13-gray-white",
+      "categories": ["laptop"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/m2-macbook-air-mockup-2/",
+      "base_file": "media/mba2022-13/gray-white.png",
+      "mask_file": "media/mba2022-13/mask.png",
+      "screen_points": [
+        [896, 224],
+        [896, 654],
+        [1471, 985],
+        [1471, 555]
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
+      "name": "2022 MacBook Air 13 Space Gray (Wood Wall Background)",
+      "slug": "mba2022-13-gray-wood",
+      "categories": ["laptop"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/m2-macbook-air-mockup-4/",
+      "base_file": "media/mba2022-13/gray-wood.png",
+      "mask_file": "media/mba2022-13/mask.png",
+      "screen_points": [
+        [605.65, 375.07],
+        [614.57, 826.0],
+        [1287.98, 779.43],
+        [1294.26, 342.06]
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
+      "name": "2017 Macbook Pro 13 Matte Black (Black Background)",
+      "slug": "mbp2017-13-black-black",
+      "categories": ["laptop"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/isometric-matte-black-2017-macbook-pro-mockup/",
+      "base_file": "media/mbp2017-13/black-black.png",
+      "mask_aspect_ratio": 1.6,
+      "screen_points": [
+        [371, 522],
+        [515, 1075],
+        [1184, 741],
+        [1040, 189]
+      ],
+      "brightness": 0.96,
+      "contrast": 0.91
+    },
+    {
+      "name": "Surface Laptop 3 13 Silver (Light Blue Background)",
+      "slug": "sl3-15-silver-blue",
+      "categories": ["laptop"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/isometric-surface-laptop-3-mockup/",
+      "base_file": "media/sl3-15/silver-blue.png",
+      "mask_aspect_ratio": 1.5,
+      "screen_points": [
+        [890, 276],
+        [890, 683],
+        [1417, 986],
+        [1417, 579]
+      ],
+      "brightness": 0.96,
+      "contrast": 0.91
+    },
+    {
+      "name": "iPhone 14 Pro Max Silver (Transparent Background)",
+      "slug": "iphone14-promax-silver-transparent",
+      "categories": ["phone"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/iphone-14-pro-max-mockup-2/",
+      "base_file": "media/iphone14-promax/silver-transparent.png",
+      "mask_file": "media/iphone14-promax/mask.png",
+      "screen_points": [
+        [1204, 432],
+        [458, 862],
+        [797, 1059],
+        [1543, 628]
+      ],
+      "brightness": 0.97,
+      "contrast": 0.93
+    },
+    {
+      "name": "iPhone X Clay (White Background)",
+      "slug": "iphonex-clay-white",
+      "categories": ["phone"],
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/minimal-clay-iphone-x-presentation-mockup-set/",
+      "base_file": "media/iphonex/clay-white.png",
+      "mask_file": "media/iphonex/mask.png",
+      "screen_points": [
+        [1166.3, 526.6],
+        [594.5, 856.9],
+        [858.3, 1009.0],
+        [1429.6, 678.7]
+      ],
+      "brightness": 0.97,
+      "contrast": 0.93
+    }
+  ]
+}
