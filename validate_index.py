@@ -59,14 +59,10 @@ def validate_template(template):
         return False
     
     # Ensure categories are valid
-    if 'categories' in template:
-        if not isinstance(template['categories'], list):
-            print_error("Categories must be a list")
+    if 'category' in template:
+        if not isinstance(template['category'], str):
+            print_error("Categories must be strings")
             return False
-        for category in template['categories']:
-            if not isinstance(category, str):
-                print_error("Categories must be strings")
-                return False
             
     # Ensure the author is valid
     if 'author' in template:
@@ -91,7 +87,7 @@ def validate_template(template):
             return False
         
     # Ensure there are no extra fields
-    all_fields = required_fields + ['mask_aspect_ratio', 'mask_file', 'brightness', 'contrast', 'categories', 'author', 'backlink']
+    all_fields = required_fields + ['mask_aspect_ratio', 'mask_file', 'brightness', 'contrast', 'category', 'author', 'backlink']
     for field in template:
         if field not in all_fields:
             print_error(f"Unexpected field: {field}")
