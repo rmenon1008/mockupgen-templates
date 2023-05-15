@@ -78,10 +78,10 @@
       "base_file": "media/iphone14-promax/silver-transparent.png",
       "mask_file": "media/iphone14-promax/mask.png",
       "screen_points": [
-        [1204, 432],
-        [458, 862],
-        [797, 1059],
-        [1543, 628]
+        [1204, 431.25],
+        [456, 862],
+        [797, 1059.5],
+        [1544.5, 628]
       ],
       "brightness": 0.97,
       "contrast": 0.93
@@ -102,6 +102,22 @@
       ],
       "brightness": 0.97,
       "contrast": 0.93
+    },
+    {
+      "name": "A4 Paper (Gray Background)",
+      "slug": "a4-gray",
+      "category": "Paper",
+      "author": "Brando Makes Branding",
+      "backlink": "https://unsplash.com/photos/fsejsqFKRTs",
+      "base_file": "media/a4/gray.jpg",
+      "mask_aspect_ratio": 0.7071,
+      "screen_points": [
+        [273.12, 716.99],
+        [1249.29, 1031.27],
+        [1673.42, 572.61],
+        [725.96, 298.39]
+      ],
+      "black_white_point": ["292826", "D9DCDD"]
     }
   ]
 }
