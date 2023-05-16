@@ -118,6 +118,22 @@
         [725.96, 298.39]
       ],
       "black_white_point": ["292826", "D9DCDD"]
+    },
+    {
+      "name": "Business Card Stack (White Background)",
+      "slug": "businesscard-white",
+      "category": "Paper",
+      "author": "Mediamodifier",
+      "backlink": "https://unsplash.com/photos/ZZah4APmFjU",
+      "base_file": "media/businesscard/white.jpg",
+      "mask_aspect_ratio": 0.7071,
+      "screen_points": [
+        [554.89, 886.19],
+        [228.59, 1172.14],
+        [744.53, 1639.71],
+        [1084.72, 1284.15]
+      ],
+      "black_white_point": ["2D2D30", "DBE9ED"]
     }
   ]
 }
